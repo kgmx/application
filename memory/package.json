@@ -1,0 +1,14 @@
+{
+  "name": "memory",
+  "version": "0.0.0",
+  "description": "memory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "goto-rika",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
